@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: itagi.sangamesh@gmail.com
 - 😄 Pronouns: He/Him
 
-  
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 [<img align="left" width="32px" alt="Jose's LinkedIn" src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-picture-31.png"/>][linkedin]
 [<img align="left" width="32px" alt="Jose's Instagram" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png"/>][instagram]
 <br/>
