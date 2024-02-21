@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SangameshItagi&label=Profile%20views&color=0e75b6&style=flat" alt="SangameshItagi" /> </p>
 
 - 🔭 I’m currently working on a web application which provides Concurrent Ticket Booking Management in Golang.
-- 🌱 I’m currently learning Golang, React.js
+- 🌱 I have 4 years of experience in Java, Spring Boot and Database Technologies. I’m currently learning Golang, React.js
 - 👯 I’m looking to collaborate on Software development ideas
 - 🤌 I’m looking for help with finding Open Source Projects that I can contribute to. 
 - 🤔 I’m looking for Full time opportunity as a Software Engineer
